@@ -1,3 +1,3 @@
-module.exports = function (string) {
-  return string;
+module.exports = function () {
+  return "This is a Function";
 };
